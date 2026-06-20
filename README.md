@@ -69,7 +69,7 @@ Proyek ini dibuat sebagai implementasi Struktur Data Queue pada sistem antrean p
 
 Demo Online
 
-https://sistemantreanpasien-mswyxe4eerjold9hyytqj2.streamlit.app/
+https://sistemantreanpuskesmas-gkpgappblmhdqgboeje3s7b.streamlit.app/
 
 Repository GitHub
 
